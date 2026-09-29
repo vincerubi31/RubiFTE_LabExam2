@@ -23,7 +23,7 @@ class Program
             {
                 for (int i = 0; i < 3; i++)
                 {
-                    Console.Write("Participant's Name: ");
+                    Console.Write("Participant's Namee: ");
                     name[i] = Console.ReadLine();
                     total[i] = 0;
                     for (int j = 0; j < 3; j++)
